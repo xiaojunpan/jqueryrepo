@@ -1,3 +1,4 @@
 This is some sample text content.
-//Modified by Paula. 
 //Modified by Jaidev
+
+This is some Paula's text content.
